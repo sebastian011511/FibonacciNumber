@@ -1,5 +1,9 @@
 import java.math.BigInteger;
 
+/*
+* This program was created by Sebastian Vasco
+* The program is designed to find fibonacci number of given number.  If the number is over 6 digits long, program will
+* only display the last 6 digits.*/
 public class Fibonacci {
 
     public static void main(String[] args) {
